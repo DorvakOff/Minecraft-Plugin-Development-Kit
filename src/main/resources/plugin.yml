@@ -1,0 +1,4 @@
+api-version: 1.13
+name: Minecraf-Plugin-Development-Kit
+version: %PLUGIN_VERSION%
+main: com.dorvak.mpdk.MPDKPlugin
